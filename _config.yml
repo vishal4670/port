@@ -1,5 +1,5 @@
 permalink: /:categories/:title/
-url: "http://example.com"
+url: "http://hoffli.github.io/saigon-jekyll-theme/"
 base: '/port/'
 full_name: "Saigon Jekyll Theme"
 first_name: "Just"
