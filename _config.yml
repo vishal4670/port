@@ -1,5 +1,6 @@
 permalink: /:categories/:title/
 url: "http://example.com"
+base: '/port/'
 full_name: "Saigon Jekyll Theme"
 first_name: "Just"
 last_name: "Me"
